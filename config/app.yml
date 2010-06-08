@@ -1,0 +1,11 @@
+all:
+  inline_asset:
+
+    # if using the "link" option for an image, these attributes are given to the image tag
+    link_attributes:
+      class:     inline_image
+
+  inline_object:
+    types:
+      image:     sfInlineObjectImageType
+    
