@@ -7,5 +7,6 @@ all:
 
   inline_object:
     types:
-      image:     sfInlineObjectImageType
+      image:
+        class:   sfInlineObjectImageType
     
